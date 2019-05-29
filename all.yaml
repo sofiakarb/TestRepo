@@ -1,0 +1,4 @@
+REMOTE_USER: skarvoun
+BECOME_USER: skarvoun
+BECOME_PASS: 123456lalala
+REMOTE_PASS: 123456lalala 
